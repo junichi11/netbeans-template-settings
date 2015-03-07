@@ -6,7 +6,7 @@ This is a NetBeans plugin. You can use settings for template per project.
 
 - Right-click project
 - Click properties
-- Check `Enable settings in this project`
+- Check `Template Settings > Enable settings in this project`
 - Edit settings e.g. `user=your name`
 - Click OK button
 
