@@ -1,4 +1,4 @@
-# Template Settings Plugin
+# Template Settings4p Plugin
 
 This is a NetBeans plugin. You can use settings for template per project.
 
