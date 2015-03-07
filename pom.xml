@@ -105,8 +105,9 @@
 &lt;ul&gt;
 &lt;li&gt;Right-click project&lt;/li&gt;
 &lt;li&gt;Click properties&lt;/li&gt;
-&lt;li&gt;Check "Enable settings in this project"&lt;/li&gt;
+&lt;li&gt;Check "Template Settings &gt; Enable settings in this project"&lt;/li&gt;
 &lt;li&gt;Edit settings e.g. "user=your name"&lt;/li&gt;
 &lt;li&gt;Click OK button&lt;/li&gt;
-&lt;/ul&gt;</description>
+&lt;/ul&gt;
+    </description>
 </project>
